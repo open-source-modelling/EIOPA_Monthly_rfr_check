@@ -28,7 +28,7 @@ Qb calibration vector for EUR is
 |20	| 0.8647 |
 
 
-From file EIOPA_RFR_20221130_Term_Structures, sheet RFR_spot_no_VA
+From file EIOPA_RFR_20221130_Term_Structures.xlsx, sheet RFR_spot_no_VA
 | Parameters  | Value     | 
 | -----------| ---------- | 
 |alpha	| 0.124278 |
