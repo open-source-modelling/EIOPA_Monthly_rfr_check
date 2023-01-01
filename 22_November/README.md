@@ -54,4 +54,3 @@ From file EIOPA_RFR_20221130_Term_Structures.xlsx, sheet RFR_spot_no_VA:
 The EIOPA curve generated for November 2022 has passed the success criteria. Based on the preformed tests, it is likely that the curve was generated using the Smith & Wilson algorithm with the calibration vector that was provided in the file *EIOPA_RFR_20221130_Qb_SW.xlsx* and the parameters displayed in the file *EIOPA_RFR_20221130_Term_Structures*.
 
 ![image](https://user-images.githubusercontent.com/95974474/210178008-4c829c01-39d2-470d-9d67-5abfb8ce487a.png)
-
