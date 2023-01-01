@@ -41,7 +41,7 @@ From file EIOPA_RFR_20221130_Qb_SW.xlsx, sheet SW_Qb_no_VA, `Qb` calibration vec
 |19	         | 0.0203     |
 |20	         | 0.8647     |
 
-From file EIOPA_RFR_20221130_Term_Structures.xlsx, sheet RFR_spot_no_VA
+From file EIOPA_RFR_20221130_Term_Structures.xlsx, sheet RFR_spot_no_VA:
 | Parameters  | Value     | 
 | ------------| ----------| 
 |alpha	      | 0.124278  |
