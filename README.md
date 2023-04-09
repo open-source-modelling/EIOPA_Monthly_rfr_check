@@ -53,3 +53,5 @@ The implementation of the SW algorithm is a slight modification to the original 
 [February 2022 repository]:https://github.com/qnity/EIOPA_Monthly_RFR_check/tree/main/22_February
 [Jenuary 2022 repository]:https://github.com/qnity/EIOPA_Monthly_RFR_check/tree/main/22_January
 [December 2021 repository]:https://github.com/qnity/EIOPA_Monthly_RFR_check/tree/main/21_December
+
+Queries and suggestions; gregor@osmodelling.com
