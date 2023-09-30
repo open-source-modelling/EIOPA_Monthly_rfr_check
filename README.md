@@ -20,6 +20,10 @@ The implementation of the SW algorithm is a slight modification to the original 
 
 | Date                     | Repository                          |
 | -------------------------| ----------------------------------- |
+| 31 August 2023           | [August 2023 repository]            |
+| 31 July 2023             | [July 2023 repository]              |
+| 30 June 2023             | [June 2023 repository]              |
+| 31 May 2023              | [May 2023 repository]               |
 | 30 April 2023            | [April 2023 repository]             |
 | 31 March 2023            | [March 2023 repository]             |
 | 28 February 2023         | [February 2023 repository]          |
@@ -38,6 +42,10 @@ The implementation of the SW algorithm is a slight modification to the original 
 | 31 January 2022          | [Jenuary 2022 repository]           |
 | 31 December 2021         | [December 2021 repository]          |
 
+[August 2023 repository]:https://github.com/open-source-modelling/EIOPA_Monthly_RFR_check/tree/main/23_August
+[July 2023 repository]:https://github.com/open-source-modelling/EIOPA_Monthly_RFR_check/tree/main/23_July
+[June 2023 repository]:https://github.com/open-source-modelling/EIOPA_Monthly_RFR_check/tree/main/23_June
+[May 2023 repository]:https://github.com/open-source-modelling/EIOPA_Monthly_RFR_check/tree/main/23_May
 [April 2023 repository]:https://github.com/qnity/EIOPA_Monthly_RFR_check/tree/main/23_April
 [March 2023 repository]:https://github.com/qnity/EIOPA_Monthly_RFR_check/tree/main/23_March
 [February 2023 repository]:https://github.com/qnity/EIOPA_Monthly_RFR_check/tree/main/23_February
